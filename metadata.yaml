@@ -1,0 +1,31 @@
+_repo: The-Religion-of-NumaAnd-Other-Essays-on-the-Religion-of-Ancient-Rome_18222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carter, Jesse Benedict
+    birthdate: 1872
+    deathdate: 1917
+    gutenberg_agent_id: '7883'
+    url: http://www.gutenberg.org/2009/agents/7883
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '2006-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Numa Pompilius, King of Rome, fl. 715-673 B.C. -- Religion'
+- !lcsh 'Rome -- Religion'
+- !lcsh 'Augustus, Emperor of Rome, 63 B.C.-14 A.D. -- Religion'
+title: 'The Religion of Numa
+
+  And Other Essays on the Religion of Ancient Rome'
+url: http://www.gutenberg.org/ebooks/18222
